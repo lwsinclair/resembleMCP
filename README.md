@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shrishj-resemblemcp-badge.png)](https://mseep.ai/app/shrishj-resemblemcp)
+
 # Resemble AI Voice Generation MCP
 
 A simple MCP server for generating voice clips using Resemble AI's API.
